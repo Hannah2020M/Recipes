@@ -1,0 +1,127 @@
+Recipe
+Started on 1:15 PM 5/31/2024 and as repo on coder2020aug@gmail.com GITHUB
+
+==+++  +++====
+
+====++ END OF   +++====
+
+
+
+
+
+
+
+
+==++++   +++====
+
+
+++=== end of  +++==========
+
+
+
+==+++ 1:15 PM 5/31/2024  ++====
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>RECIPE RAIN 2024may31 </title>
+      <link href="sumslumbstyles02.css" rel="stylesheet" type="text/css" />
+      <!---  &nbsp  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  --->
+
+
+   </head>
+<body>
+
+<h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRECIPE RAIN </h1>
+
+<!-- sumslumbstyles02.css -->
+<p>
+
+
+<div id="contents"></div>
+   <p id="contents"><h3>Table of contents</h3><p2>&nbsp&nbsp&nbspPlease click on the
+ content you need to access.Thankyou !<br>
+   <a style="font-size:24px;"  href="#Sweet summer memories" > Sweet summer memories</a> <br>
+   <a style="font-size:24px;"  href="#Strange summer experiences" >Strange summer experiences</a> <br>
+   <a style="font-size:24px;"  href="#Savory summer recipes" >Savory summer recipes</a> <br>
+
+  					     </p2><br>
+  </p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+         <img src="https://ucarecdn.com/9d3fc946-67f6-4703-963b-74c798190940/20231004_002832.jpg"
+         alt="MyNeckIsRewardedWithMyKidsLovingHandsAroundMyNeck" style="width:350px;height:360px;">
+            <br><br>
+
+   <p> <div id="Sweet summer memories"></div></p>
+        <h3>&nbsp&nbsp Sweet summer memories :</h3>
+ 
+<p1>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMy 2023 Summer memories are a bit different from those of my other 
+   summers.I found muself an empty nester in the summer of <br>&nbsp2023. &nbsp&nbsp&nbspSCAAA....AAARY !&nbsp
+   But I had been prepping myself to face the inevitable empty-nester phase of my life, for atleast 8 months<br>
+   &nbspnow. So I had quite a bit of confidence about sailing through the transition into this 'empty-nester' phase.
+   Boy ! did I get that wrong ???!!<br>&nbspThe 'empty-nester' phase hit me like a ton of bricks !&nbspInitially I had  made
+   myself believe,that, a cheerful heart is good medicine to face any &nbspimpending problem in one's life.So I had
+   gathered all the help .advice that I could get from my friends adn family members, who had been &nbspthrough the 'empty-nester" 
+   phase of their life(SUCCESSFULLY) ! I've seen quite a few people who were not successful in sailing through<br>
+   &nbsptheir empty-nester phase without any major catastrophe.So I had carefully decided to avoid the missteps they had
+   made.And I had  collected &nbspadvice,hints, from the successful ones. All in all, I was quite confident, that, I
+   had prepared myself to tackle the 'empty-nester' phase in my<br>&nbsp life as smoothly as I could.Simply put, I 
+   was wrong ! I guess, no one could anticipate fully, the effect of 'empty-nester' phase . So I had to<br>&nbsp muster my
+   strength, creativity, innovative skills to transition into this phase of my life ! All the preparations I had
+   made, in anticipation of the<br>&nbsp 'empty-nester' phase did help ! I had to instinctively gather additional props,
+   activities in addition to my preparations. And that's exactly, what<br>&nbsp&nbspI did in the summer of 2023 .<br><br>
+   <br><br>
+
+</p1>
+
+<p3><div>
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+         <img src="https://ucarecdn.com/c730485b-ec38-48de-8123-195d2a98d419/20231002_232307.jpg"
+         alt="MyNeckIsRewardedWithMyKidsLovingHandsAroundMyNeck" style="width:350px;height:360px;">
+            <br><br>
+
+
+    </div>
+</p3>
+
+ <p> <div id="Strange summer experiences"></div></p>
+        <h3>&nbsp&nbsp Strange summer experiences:</h3>
+<p4><div>
+
+<p1>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspI did feel a bit strange as I relied a lot on my eldest daughter
+  to help me ace through my 'empty-nester' phase. I am he mom and I had been<br>&nbsp used to taking care of her,until
+  she got her own place and moved out after she secured a good-paying job.Now it seemed that she was caring
+  <br>&nbsp for me like one cares for her child ! it was strange indeed !
+   summers.
+
+
+</p1>
+  </div>
+</p4>
+
+
+
+
+
+
+<!-- https://ucarecdn.com/e562484a-e16a-4934-ad9e-1723ed3e83c8/Preschool2022lab.jpg -->
+
+
+</body>
+</html>
+
+==+++ end of 1:15 PM 5/31/2024  +++===
+
+
