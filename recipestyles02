@@ -1,0 +1,24 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: #2f4008;
+}
+
+h3{
+  color:#754f0c;
+
+}
+
+p{
+
+   color :#c4081b ;  
+
+}
+
+p1 {
+  color: #2f4008;
+}
+p4{
+   color :#c4081b;
+}
